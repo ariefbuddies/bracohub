@@ -16,7 +16,7 @@ title = 'Bening Abadi Transport'
   weight = 1
   [[menu.Main]]
   name = "About"
-  url= "/about/"
+  url= "about/"
   weight = 3
   [[menu.Main]]
   name = "Penginapan"
