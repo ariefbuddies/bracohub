@@ -1,5 +1,5 @@
 ---
-title: "World Most Famous App Developers Pasti Toyib"
+title: "Pasti Toyib"
 date: 2022-01-06T11:18:56+06:00
 featureImage: images/blog/blog-feature.jpg
 tags: ["Marketing", "News"]
