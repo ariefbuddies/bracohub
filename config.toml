@@ -1,4 +1,4 @@
-baseURL = 'https://cohub-hugo.netlify.app'
+baseURL = 'https://ariebuddies.github.io/bracohub'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
@@ -7,11 +7,11 @@ title = 'coHub'
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Exibhition"
+  name = "SEWA MOBIL JOGJA"
   url= "#gallery"
   weight = 1
   [[menu.Main]]
-  name = "Feature"
+  name = "Rental Motor Jogja"
   url= "#service"
   weight = 1
   [[menu.Main]]
@@ -19,7 +19,7 @@ title = 'coHub'
   url= "/about/"
   weight = 3
   [[menu.Main]]
-  name = "Blog"
+  name = "Penginapan"
   url= "#blog"
   weight = 4
   [[menu.Main]]
