@@ -8,19 +8,9 @@ sliderImage:
   - image: "images/stor/story-01.jpg"
   - image: "images/stor/story-01.jpg"
 ---
-## This Is Our Story.
+## Ini adalah tentang Bening.
 
 We’re here for those who refuse to settle. Who never stop moving forwards. Who continue to search for new
 ideas and better experiences in everything they do. Because today’s hyper-connected world deserves a
 financial partner just as progressive.One that adapts to your needs, gives you control and constantly pushes
 you into new exciting spaces.
-# MENU UTAMA!!!
-## ![](https://i.imgur.com/0tRzJ85.jpg) Aika
-
-### 50k/jam
-:100: Perawan ting2 :+1: 
-> [color=#07ef58]
-> [time=Mon, Nov 14, 2022 10:35 AM]
-> 1. Dilarang mabok
-> 2. Jangan main gila
-> 3. Pakai kondom!!!
