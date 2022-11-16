@@ -11,7 +11,7 @@ title = 'coHub'
   url= "#gallery"
   weight = 1
   [[menu.Main]]
-  name = "Rental Motor Jogja"
+  name = "Feature"
   url= "#service"
   weight = 1
   [[menu.Main]]
@@ -26,14 +26,6 @@ title = 'coHub'
   name = "Pricing"
   url= "#pricing"
   weight = 5
-  [[menu.Main]]
-  name = "FAQ"
-  url= "#faq"
-  weight = 6
-  [[menu.Main]]
-  name = "Contact"
-  url= "/contact/"
-  weight = 7
 
   # Sitemap Menu
   [[menu.sitemap]]
