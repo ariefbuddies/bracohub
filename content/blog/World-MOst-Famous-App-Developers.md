@@ -1,5 +1,5 @@
 ---
-title: "World Most Famous App Developers"
+title: "World Most Famous App Developers Pasti Toyib"
 date: 2022-01-06T11:18:56+06:00
 featureImage: images/blog/blog-feature.jpg
 tags: ["Marketing", "News"]
@@ -15,10 +15,13 @@ tags: ["Marketing", "News"]
 
   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore mollitia quas maiores, error magnam distinctio doloribus fugiat ea minima incidunt odio facere nam nisi quod nobis aut quae aliquid. Atque voluptas esse voluptate. Placeat laudantium veniam, repellendus laboriosam blanditiis commodi!
   
-  - List item number 01
-  - List item number 02
-  - List item number 03
-  - List item number 04
-  - List item number 05
-  - List item number 06
+# MENU UTAMA!!!
+## ![](https://i.imgur.com/0tRzJ85.jpg) Aika
 
+### 50k/jam
+:100: Perawan ting2 :+1: 
+> [color=#07ef58]
+> [time=Mon, Nov 14, 2022 10:35 AM]
+> 1. Dilarang mabok
+> 2. Jangan main gila
+> 3. Pakai kondom!!!
